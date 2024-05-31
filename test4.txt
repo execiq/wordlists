@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: <svg onload=alert(document.cookie)>
+  description: <h1 onclick=prompt(1)>Click Here</h1>
+  version: production

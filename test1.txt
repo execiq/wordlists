@@ -1,5 +1,0 @@
----
-title: "Welcome to My Site"
-description: "This is a normal description."
-malicious_title: "Welcome to <script>alert('Hacked!');</script> My Site"
-malicious_description: "This is a description with <img src='x' onerror='alert(\"Hacked!\")'>."

